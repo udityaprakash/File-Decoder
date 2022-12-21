@@ -1,0 +1,14 @@
+Welcome to Uditya softwares Private limited.
+
+To run this software follow the folowing steps:-
+1.Open folder dist.
+2.click on decoder folder.
+3.Make sure that you have the .txt file saved in decoder folder
+4.Click to decoder(with floppy disk icon.)
+5.then do the following as it asks.
+6.your decoded file will be saved in decoder folder itself.
+
+Thankyou for choceing Uditya softwares Private limited.
+Send your feedback at
+""udityaprakash983@gmail.com""
+or at ''9838652965'' 
